@@ -123,6 +123,16 @@ data.
 (operators, engineers, managers).
 - Deploy the Streamlit app to a cloud platform for remote access. [file:54]
 
+### Optional ML artifacts
+
+- `rf2_model.pkl`: Saved RandomForest model trained to predict `maintenance_required`
+  from sensor data.
+- `scaler.pkl`: Feature scaler used during model training.
+
+These files are not yet integrated into the Streamlit app, but they show
+that a predictive maintenance model was trained and can be loaded later
+for real-time predictions.
+
 
 
 ## 8. Author
