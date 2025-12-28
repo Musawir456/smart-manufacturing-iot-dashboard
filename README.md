@@ -1,4 +1,4 @@
-# Smart Manufacturing IoT‑Cloud Monitoring Dashboard
+# Smart Manufacturing IoT‑Cloud Monitoring 
 
 ## 1. Project overview
 
